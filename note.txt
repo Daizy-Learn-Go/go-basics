@@ -1,0 +1,6 @@
+variable.go
+1. Spasinya darimana?
+2. Kalau gamau pake spasi?
+
+constant.go
+1. Deklarasi variable dengan := hanya berlaku untuk var dan tidak valid untuk const?
