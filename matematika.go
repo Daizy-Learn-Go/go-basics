@@ -17,7 +17,7 @@ func main() {
 	fmt.Println(d)
 	fmt.Println(e)
 
-	fmt.Println("---------  ---------")
+	fmt.Println("--------- += ---------")
 
 	var i = 10
 	fmt.Println(i)
@@ -27,4 +27,14 @@ func main() {
 
 	i += 5
 	fmt.Println(i)
+
+	fmt.Println("--------- ++ ---------")
+
+	var j = 10
+	j++
+	fmt.Println(j)
+	j++
+	fmt.Println(j)
+	j--
+	fmt.Println(j)
 }
