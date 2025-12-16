@@ -4,3 +4,6 @@ variable.go
 
 constant.go
 1. Deklarasi variable dengan := hanya berlaku untuk var dan tidak valid untuk const?
+
+function_param.go
+1. Kok define param waktu define func bisa gitu?
